@@ -1,4 +1,5 @@
 ﻿using AspNetCoreBookAPI.Data;
+using AspNetCoreBookAPI.Dtos;
 using AspNetCoreBookAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -38,15 +39,29 @@ public class BooksController : ControllerBase
         return book;
     }
 
-    // POST: api/Books
     [HttpPost]
-    public async Task<ActionResult<Book>> PostBook(Book book)
+    public async Task<IActionResult> CreateBook([FromBody] CreateBookDto dto)
     {
+        var book = new Book
+        {
+            Title = dto.Title,
+            Author = dto.Author,
+            Genre = dto.Genre,
+            Price = dto.Price,
+            Description = dto.Description,
+            PublisherId = dto.PublisherId,
+            BookCategories = dto.CategoryIds.Select(cid => new BookCategory
+            {
+                CategoryId = cid
+            }).ToList()
+        };
+
         _context.Books.Add(book);
         await _context.SaveChangesAsync();
 
         return CreatedAtAction(nameof(GetBook), new { id = book.Id }, book);
     }
+
 
     // PUT: api/Books/5
     [HttpPut("{id}")]

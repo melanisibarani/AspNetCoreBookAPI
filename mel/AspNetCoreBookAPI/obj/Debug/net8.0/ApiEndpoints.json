@@ -21,29 +21,19 @@
   },
   {
     "ContainingType": "BooksController",
-    "Method": "PostBook",
+    "Method": "CreateBook",
     "RelativePath": "api/Books",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "book",
-        "Type": "Book",
+        "Name": "dto",
+        "Type": "AspNetCoreBookAPI.Dtos.CreateBookDto",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "Book",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "BooksController",

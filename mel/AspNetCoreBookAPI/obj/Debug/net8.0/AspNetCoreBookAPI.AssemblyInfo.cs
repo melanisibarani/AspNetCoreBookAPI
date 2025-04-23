@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreBookAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe148078c5133c81cf5d46da22aa5e6e5e673df")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreBookAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreBookAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

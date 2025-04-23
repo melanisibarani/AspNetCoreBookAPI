@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AfA9tpTco+8=",
+  "dgSpecHash": "9xWPTofSs0o=",
   "success": true,
-  "projectFilePath": "E:\\MEL\\2024\\naps\\simpleBook\\AspNetCoreBookAPI\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+  "projectFilePath": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\555509220084.TBG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\555509220084.TBG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

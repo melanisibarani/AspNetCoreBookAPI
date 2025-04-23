@@ -60,41 +60,24 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/CreateBookDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/CreateBookDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/CreateBookDto"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Book"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Book"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Book"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -652,6 +635,44 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/BookCategory"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateBookDto": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "author": {
+            "type": "string",
+            "nullable": true
+          },
+          "genre": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "publisherId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "categoryIds": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int32"
             },
             "nullable": true
           }

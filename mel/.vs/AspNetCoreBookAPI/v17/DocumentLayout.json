@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\aspnetcorebookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\aspnetcorebookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\controllers\\bookscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\controllers\\bookscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\aspnetcorebookapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\aspnetcorebookapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|e:\\mel\\2024\\naps\\netcore\\mel\\aspnetcorebookapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC10DAF-7E38-4EE0-9DFD-60A3CC0016BA}|AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj|solutionrelative:aspnetcorebookapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\2185c22193bde1f14ff8b4886fb8afa381e100d87e49d331b585762d2ff268b1\\mel\\AspNetCoreBookAPI\\Controllers\\BooksController .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\107dcf6446501cf8b9eb97338203e0147126b25579a9eb929c7879f8f7329b17\\mel\\AspNetCoreBookAPI\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController .cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:40:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:50:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\appsettings.Development.json",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCoreBookAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:27:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\appsettings.json",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreBookAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:27:05.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AspNetCoreBookAPI",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "RelativeToolTip": "AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T08:59:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspNetCoreBookAPI",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "RelativeToolTip": "AspNetCoreBookAPI\\AspNetCoreBookAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T08:46:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookstoreContext.cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Data\\BookstoreContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Data\\BookstoreContext.cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Data\\BookstoreContext.cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Data\\BookstoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:05:08.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Models\\BookCategory.cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Models\\BookCategory.cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:40:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Program.cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Program.cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:53:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Dtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Dtos\\CreateBookDto.cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Dtos\\CreateBookDto.cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Dtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:47:25.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "AspNetCoreBookAPI\\Models\\Book.cs",
+              "ToolTip": "E:\\MEL\\2024\\naps\\NetCOre\\mel\\AspNetCoreBookAPI\\Models\\Book.cs",
+              "RelativeToolTip": "AspNetCoreBookAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:40:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\107dcf6446501cf8b9eb97338203e0147126b25579a9eb929c7879f8f7329b17\\mel\\AspNetCoreBookAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\107dcf6446501cf8b9eb97338203e0147126b25579a9eb929c7879f8f7329b17\\mel\\AspNetCoreBookAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:57:11.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController .cs",
+              "DocumentMoniker": "C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\2185c22193bde1f14ff8b4886fb8afa381e100d87e49d331b585762d2ff268b1\\mel\\AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "ToolTip": "C:\\Users\\555509220084.TBG\\AppData\\Local\\SourceServer\\2185c22193bde1f14ff8b4886fb8afa381e100d87e49d331b585762d2ff268b1\\mel\\AspNetCoreBookAPI\\Controllers\\BooksController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:53:05.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
